@@ -1,0 +1,21 @@
+
+.Options {
+    font-weight: 300;
+    font-size:12px;
+    color: '#bababa';
+    padding: 10px;
+    border-top: .5px solid #9c9a9a;
+}
+
+.Options a {
+    color: inherit;
+    text-decoration: none;
+    padding: 4px;
+}
+
+.Options span {
+    color: rgb(70, 68, 68);
+    margin-right:10px ;
+    padding: 4px;
+    
+}

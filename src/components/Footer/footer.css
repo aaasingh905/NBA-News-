@@ -1,0 +1,22 @@
+.footer {
+    margin-top: 10px;
+    background:rgba(160, 27, 27, 0.911);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.logo img {
+    height: 20px;
+    padding: 10px;
+    align-content: center;
+}
+
+.Copyright {
+    flex-grow: 1;
+    color: '#878787';
+    font-size: 12px;
+    text-align: center;
+}

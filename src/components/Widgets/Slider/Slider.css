@@ -1,0 +1,26 @@
+.Featured {
+    position:relative;
+}
+
+.Featured a {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-decoration: none;
+    right: 0px;
+}
+
+.Featured_img {
+    height: 330px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.Featured_Title {
+    color: white;
+    top: 0px;
+    width: 100%;
+    padding: 20px;
+    font-weight: 300;
+    font-size: 28px;
+}

@@ -1,0 +1,90 @@
+.TeamHeader {
+  border: 1px solid #c5c5c5;
+  border-bottom: 0px;
+  background: #fff;
+  display: flex;
+  margin: 5px 5px 0px 0px;
+  justify-content: center;
+  align-content: center;
+}
+
+.left {
+  width: 57px;
+  height: 50px;
+  background-size: 65% !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+}
+
+.right {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.PostData {
+  border: 1px solid #c5c5c5;
+  border-bottom: 0px;
+  background: #fff;
+  margin: 5px 5px 0px 0px;
+  padding: 10px;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.PostData span {
+  font-weight: 500;
+}
+
+.Body {
+  background: #fff;
+  margin: 5px 5px 5px 0px;
+  border: 1px solid #c5c5c5;
+  padding: 10px;
+}
+
+.Body h1 {
+  font-size: 25px;
+  font-weight: 400;
+  color: #111111;
+  margin: 15px 0px;
+}
+
+.Image {
+  background-size: cover !important ;
+  width: 100%;
+  height: 200px;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+}
+
+.BodyText {
+  font-weight: 300;
+  color: #353434;
+  line-height: 23px;
+  margin: 15px 0px;
+}
+
+.Video {
+  background: #fff;
+  margin: 15px 0px;
+  border: 1px solid #c5c5c5;
+  padding: 10px;
+}
+
+.Video h1 {
+  font-size: 25px;
+  font-weight: 400;
+  color: #111;
+  margin: 15px 0px;
+  padding: 0px 10px;
+}
+
+.Video iframe {
+  border: 0;
+}
+
+.Related {
+  margin: 0 5px;
+}

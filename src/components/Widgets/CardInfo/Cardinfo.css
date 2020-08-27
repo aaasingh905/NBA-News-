@@ -1,0 +1,20 @@
+.CardInfo {
+    font-size: 12px;
+
+}
+
+.CardInfo i {
+    margin-right: 5px;
+}
+
+.TeamName {
+    margin-right: 5px;
+    background: #4e4e4e;
+    color: #fff;
+    padding: 2px 5px;
+}
+
+.Date {
+    color: #1d87df;
+    
+}

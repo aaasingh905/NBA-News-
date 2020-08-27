@@ -1,0 +1,37 @@
+.VideoList_Wrapper {
+  text-align: center;
+  margin: 0px;
+  color: #111111;
+  font-weight: 200;
+  font-size: 21px;
+  text-decoration: none;
+}
+
+.VideoTemplate_Wrapper {
+  display: flex;
+  border-bottom: 2px solid #d5d5d5;
+  background: #fff;
+}
+
+.VideoTemplate_Wrapper h2 {
+  font-size: 13px;
+  columns: #111111;
+}
+.left {
+  background-size: cover !important;
+}
+
+.left div {
+  width: 90px;
+  height: 90px;
+  background-size: 40px !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background: url("/images/play.png");
+}
+
+.right {
+  text-align: left;
+  flex-grow: 1;
+  padding: 10px;
+}
